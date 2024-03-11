@@ -1,5 +1,7 @@
 ### Hey there, I'm Kainoa 👋
 
+Check out my personal site at kainoa.ca
+
 <!--
 **compSciKai/compSciKai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
